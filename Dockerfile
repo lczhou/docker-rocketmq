@@ -1,1 +1,1 @@
-FROM foxiswho/rocketmq:server-4.3.2
+FROM styletang/rocketmq-console-ng

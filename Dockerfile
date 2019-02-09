@@ -1,1 +1,1 @@
-FROM foxiswho/rocketmq:server-4.3.2
+FROM foxiswho/rocketmq:broker-4.3.2
